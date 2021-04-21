@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Matematico
+comment0.text=\r\n\ Dados\ tres\ n\u00FAmeros\:\ El\ matem\u00E1tico\ sabe\ indicar\ cual\ es\ el\ numero\ mayor,\ cual\ el\ menor\ y\r\n\ cual\ del\ medio.\r\n\ Dados\ la\ base\ y\ altura\ de\ un\ cuadrado\:\ El\ sabe\ indicar\ el\ \u00E1rea\ de\ dicha\ figura.\r\n\ Dados\ las\ coordenadas\ de\ dos\ puntos\:\ Sabe\ calcular\ distancia\ entre\ estos\ puntos.\r\n\ Dado\ las\ coordenadas\ de\ un\ punto\:\ Es\ capaz\ de\ indicar\ en\ que\ cuadrante\ se\ encuentra\ dicho\r\n\ punto.\r\n\ Dados\ los\ valores\ de\ a,\ b\ y\ c\ de\ una\ ecuaci\u00F3n\ de\ segundo\ grado.\ Devolver\ los\ dos\ valores\r\n\ que\ podr\u00EDa\ tener\ X.\r\n\ Dados\ las\ coordenadas\ de\ dos\ puntos.\ Es\ capaz\ de\ encontrar\ la\ ecuaci\u00F3n\ de\ la\ recta\ de\r\n\ dichos\ puntos.\r\n\ Dados\ la\ hipotenusa\ y\ el\ cateto\ de\ un\ triangulo\ rect\u00E1ngulo.\ Indicar\ cual\ es\ el\ valor\ del\ cateto\r\n\ faltante.\r\n\ \r\n\ Mark\r\n\ 20/04/2021\r\n
+comment1.params=Calc
+comment1.target=Matematico(Calculadora)
+comment2.params=Base\ Altura
+comment2.target=int\ DarArea(int,\ int)
+comment3.params=Num1\ Num2\ Num3
+comment3.target=Triple\ DarMayMedMen(int,\ int,\ int)
+comment4.params=P1\ P2
+comment4.target=double\ DarDistancia(Punto,\ Punto)
+comment5.params=P
+comment5.target=java.lang.String\ DarCuadrante(Punto)
+comment6.params=A\ B\ C
+comment6.target=Doble\ getDarValoresDeX(int,\ int,\ int)
+comment7.params=P1\ P2
+comment7.target=EcuRec\ getDarEcuacionRecta(Punto,\ Punto)
+comment8.params=Hip\ Cat
+comment8.target=double\ getCatetoFaltante(double,\ double)
+numComments=9

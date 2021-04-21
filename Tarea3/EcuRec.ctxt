@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=EcuRec
+comment0.text=\r\n\ Clase\ Ecucaion\ de\ la\ Recta\ "EcuRec"\ para\ mostrar\ los\ valores\ de\r\n\ A,\ B\ y\ C\ de\ una\ recta\ Ax+By+C.\r\n\ \r\n\ Mark\r\n\ 20/04/2021\r\n
+comment1.params=Ax\ By\ C
+comment1.target=EcuRec(int,\ int,\ int)
+comment2.params=
+comment2.target=double\ getAx()
+comment3.params=
+comment3.target=double\ getBy()
+comment4.params=
+comment4.target=double\ getC()
+numComments=5

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Calculadora
+comment0.text=\r\n\ Clase\ Calculadora\ para\ relizar\ las\ operacion\ que\ nuestro\ matematico\r\n\ no\ puede\ realizar.\r\n\ Dados\ los\ valores\ de\ a,\ b\ y\ c\ de\ una\ ecuaci\u00F3n\ de\ segundo\ grado.\ Devolver\ los\ dos\ valores\r\n\ que\ podr\u00EDa\ tener\ X.\r\n\ Dados\ las\ coordenadas\ de\ dos\ puntos.\ Es\ capaz\ de\ encontrar\ la\ ecuaci\u00F3n\ de\ la\ recta\ de\r\n\ dichos\ puntos.\r\n\ Dados\ la\ hipotenusa\ y\ el\ cateto\ de\ un\ triangulo\ rect\u00E1ngulo.\ Indicar\ cual\ es\ el\ valor\ del\ cateto\r\n\ faltante.\r\n\ Mark\r\n\ 20/04/2021\r\n
+comment1.params=A\ B\ C
+comment1.target=Doble\ DarValoresX(int,\ int,\ int)
+comment2.params=P1\ P2
+comment2.target=EcuRec\ DarEcuacionRecta(Punto,\ Punto)
+comment3.params=Hip\ Cat
+comment3.target=double\ CatetoFaltante(double,\ double)
+numComments=4
